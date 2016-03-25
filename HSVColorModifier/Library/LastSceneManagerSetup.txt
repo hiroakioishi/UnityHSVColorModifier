@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Example/HSVColorModifier.unity
+  isLoaded: 1
+  isActive: 1
